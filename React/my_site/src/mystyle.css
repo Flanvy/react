@@ -1,0 +1,18 @@
+.AuthorLib {
+    border-color: #254280;
+    border-width: 1;
+    padding: 10;
+    margin-bottom: 5;
+    border-radius: 5;
+}
+
+h2 {
+    margin: 30px;
+    background-color: #641616;
+    color: #01e701;
+    padding: 20px;
+}
+
+.Paragraph {
+    font-style: italic;
+}
